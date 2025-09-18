@@ -16,3 +16,7 @@ Output:
 - Either an Email or an easy to Cut Document showing the studend name, and when he has what courses and in what room
 -> Email when possible
 -> if not then with the Document
+
+
+Questions:
+- Is there a minimum amount of people who have to visit a course, inside each session
